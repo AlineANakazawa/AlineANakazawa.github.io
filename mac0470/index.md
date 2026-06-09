@@ -1,0 +1,27 @@
+---
+layout: page
+title: "MAC0470"
+permalink: /mac0470/
+redirect_from:
+    - /categories/mac0470/
+---
+
+Está página foi criada para a disciplina MAC0470 - Software Livre.
+
+## Tutoriais
+
+As seguintes páginas serão focadas nos problemas e possíveis soluções encontrados durante os tutoriaias do FLUSP sobre configuração e build da máquina virtual.
+
+- [Tutorial 1](/mac0470/tutorial-1/)
+- [Tutorial 2](/mac0470/tutorial-2/)
+- [Tutorial 3](/mac0470/tutorial-3/)
+- [Tutorial 4](/mac0470/tutorial-4/)
+- [Tutorial 6](/mac0470/tutorial-6/)
+- [Tutorial 8](/mac0470/tutorial-8/)
+
+## Projetos
+
+As seguintes páginas mostra o que foi feito para cada projeto da disciplina.
+
+- [Projeto 1](/mac0470/projeto-1)
+- [Projeto 2](/mac0470/projeto-2)
