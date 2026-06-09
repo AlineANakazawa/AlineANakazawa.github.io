@@ -4,7 +4,9 @@ source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", "~> 7.4", ">= 7.4.1"
 
-gem "jekyll-redirect-from"
+group :jekyll_plugins do
+  gem "jekyll-redirect-from"
+end
 
 gem "html-proofer", "~> 5.0", group: :test
 
